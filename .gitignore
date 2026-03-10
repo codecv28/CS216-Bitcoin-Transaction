@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Bitcoin core data
+regtest/
+blocks/
+chainstate/
+database/
+indexes/
+wallets/
+debug.log
+.cookie
+
+# Extracted PDFs
+pdf_text.txt
+extract.py
